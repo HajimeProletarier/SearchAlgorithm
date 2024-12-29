@@ -1,9 +1,7 @@
-#include <cstdint>
-#include <iostream>
-#include <random>
-#include <vector>
 #include <string>
 #include <sstream>
+#include <random>
+#include <iostream>
 #include <cassert>
 
 using ScoreType = int64_t;
